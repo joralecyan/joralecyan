@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joralecyan
 - 👀 I’m interested in Web And Mobile Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on [dont know]
+- 💞️ I’m looking to collaborate on [Mars]
 - 📫 How to reach me [$$$]
 
 <!---
