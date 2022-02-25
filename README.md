@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web And Mobile Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on [Mars]
-- 📫 How to reach me [$$$]
+- 📫 How to reach me [dont_know]
 
 <!---
 joralecyan/joralecyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
